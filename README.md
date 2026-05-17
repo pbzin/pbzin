@@ -47,12 +47,18 @@
 
 ---
 
-### 📈 GitHub Metrics
+### 📈 GitHub Trophies & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbzin&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=ea4aaa&icon_color=ea4aaa&text_color=ccc" alt="pbzin github stats" width="400">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbzin&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=ea4aaa&text_color=ccc" alt="pbzin top languages" width="350">
+  <a href="https://github.com/pbzin">
+    <img src="https://github-profile-trophy.vercel.app/?username=pbzin&theme=dracula&column=5&margin-w=15&margin-h=15&no-bg=true" alt="pbzin trophies">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pbzin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbzin&theme=dark&background=121212&stroke=ea4aaa&ring=ea4aaa&fire=ea4aaa&currStreakNum=ea4aaa&currStreakLabel=ea4aaa&sideNums=ea4aaa&sideLabels=ea4aaa&dates=ccc&hide_border=true" alt="pbzin streak stats">
+  </a>
 </p>
 
 ---

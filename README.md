@@ -47,15 +47,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <a href="https://github.com/pbzin?tab=followers">
-    <img src="https://img.shields.io/github/followers/pbzin?style=for-the-badge&color=ea4aaa&labelColor=1e1e1e&logo=github" alt="Followers">
-  </a>
-  <a href="https://github.com/pbzin/TabVisionYT/stargazers">
-    <img src="https://img.shields.io/github/stars/pbzin/TabVisionYT?style=for-the-badge&color=ea4aaa&labelColor=1e1e1e&logo=github&label=TabVision+Stars" alt="TabVision Stars">
-  </a>
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=pbzin&layout=compact&hide_border=true&bg_color=121212&title_color=ea4aaa&text_color=ccc&icon_color=ea4aaa" alt="pbzin Top Languages">
 </p>
 
 ---

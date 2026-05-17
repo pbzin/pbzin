@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Independent developer based in Brazil, passionate about extreme system optimization, Android platform development, and high-performance scripting.</b>
+  <b>Independent developer based in Brazil, passionate about system optimization, Android development, programming, utility tools, and high-performance scripts.</b>
 </p>
 
 <p align="center">
@@ -23,7 +23,6 @@
 ### 📍 About Me
 * 🇧🇷 **Location:** Based in Brazil.
 * 🛠️ **Current Focus:** Android device tree development, kernel optimization, and custom platform integration (currently working on migrating and compiling Android 16 QPR2 trees for the Xiaomi Redmi Note 13 4G `sapphire`).
-* 💻 **Open Source:** Active creator and contributor of system-level utilities like **[TabVision YT](https://github.com/pbzin/TabVisionYT)**, focusing on stream delivery efficiency and data saving.
 * 🚀 **Philosophy:** Writing clean, highly refined, and optimized code to achieve maximum system efficiency and smooth hardware interaction.
 
 ---

@@ -1,7 +1,7 @@
 # Olá, eu sou o pbzin! 👋 / Hi, I'm pbzin!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pbzin/pbzin/main/logo.png" width="160" alt="pbzin logo">
+  <img src="https://raw.githubusercontent.com/pbzin/logo.png" width="160" alt="pbzin logo">
 </p>
 
 <p align="center">

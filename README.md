@@ -1,37 +1,34 @@
-# Olá, eu sou o pbzin! 👋 / Hi, I'm pbzin!
+# Hi, I'm pbzin! 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pbzin/pbzin/main/logo.png" width="160" alt="pbzin logo">
 </p>
 
 <p align="center">
-  <b>Desenvolvedor independente apaixonado por otimização, customização Android (ROMs AOSP/crDroid) e scripts de alto desempenho.</b><br>
-  <i>Independent developer passionate about optimization, Android customization (AOSP/crDroid ROMs), and high-performance scripts.</i>
+  <b>Independent developer based in Brazil, passionate about extreme system optimization, Android platform development, and high-performance scripting.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/counter/?username=pbzin&color=ea4aaa&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 </p>
 
 <p align="center">
   <a href="https://github.com/pbzin/Donate">
-    <img src="https://img.shields.io/badge/Apoiar_meu_Trabalho-💖-ea4aaa?style=for-the-badge&logo=githubsponsors" alt="Apoiar pbzin">
+    <img src="https://img.shields.io/badge/Support_My_Work-💖-ea4aaa?style=for-the-badge&logo=githubsponsors" alt="Support pbzin">
   </a>
 </p>
 
 ---
 
-### 🇧🇷 Sobre Mim
-* 🛠️ **Foco Atual:** Desenvolvimento e migração de árvores de dispositivos Android (atualmente focado na transição para o **Android 16 QPR2** para o Xiaomi Redmi Note 13 4G `sapphire`).
-* 💻 **Projetos Open Source:** Criador de utilitários como o **[TabVision YT](https://github.com/pbzin/TabVisionYT)**, focado em otimização de banda de rede e performance.
-* 🚀 **Filosofia:** Acredito em código limpo, otimizado e na melhoria de performance de hardware modesto.
+### 📍 About Me
+* 🇧🇷 **Location:** Based in Brazil.
+* 🛠️ **Current Focus:** Android device tree development, kernel optimization, and custom platform integration (currently working on migrating and compiling Android 16 QPR2 trees for the Xiaomi Redmi Note 13 4G `sapphire`).
+* 💻 **Open Source:** Active creator and contributor of system-level utilities like **[TabVision YT](https://github.com/pbzin/TabVisionYT)**, focusing on stream delivery efficiency and data saving.
+* 🚀 **Philosophy:** Writing clean, highly refined, and optimized code to achieve maximum system efficiency and smooth hardware interaction.
 
 ---
 
-### 🇺🇸 About Me
-* 🛠️ **Current Focus:** Android device tree development and platform migration (currently working on **Android 16 QPR2** for the Xiaomi Redmi Note 13 4G `sapphire`).
-* 💻 **Open Source Projects:** Creator of utilities like **[TabVision YT](https://github.com/pbzin/TabVisionYT)**, focusing on bandwidth saving and stream performance.
-* 🚀 **Philosophy:** I believe in clean, highly optimized code and getting the absolute best performance out of modest hardware.
-
----
-
-### 🛠️ Tecnologias & Ferramentas / Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
@@ -44,23 +41,23 @@
 
 ---
 
-### 📂 Meus Projetos Destaque / Highlighted Projects
+### 📂 Featured Projects
 
-* 📺 **[TabVision YT](https://github.com/pbzin/TabVisionYT)** — Otimizador de qualidade inteligente em tempo real para abas do YouTube.
-* 💖 **[Donate Hub](https://github.com/pbzin/Donate)** — Central única de apoio e doações para o meu trabalho independente.
+* 📺 **[TabVision YT](https://github.com/pbzin/TabVisionYT)** — Real-time smart resolution optimizer for active YouTube browser tabs.
+* 💖 **[Donate Hub](https://github.com/pbzin/Donate)** — Centralized, secure support options for my open-source work.
 
 ---
 
-### 📈 Estatísticas do GitHub / GitHub Stats
+### 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbzin&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=ff0000&icon_color=ff0000&text_color=ccc" alt="pbzin github stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=pbzin&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=ea4aaa&icon_color=ea4aaa&text_color=ccc" alt="pbzin github stats" width="400">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbzin&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=ff0000&text_color=ccc" alt="pbzin top languages" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbzin&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=ea4aaa&text_color=ccc" alt="pbzin top languages" width="350">
 </p>
 
 ---
 
 <p align="center">
-  <sub>Desenvolvido com 💖 por <a href="https://github.com/pbzin">pbzin</a></sub>
+  <sub>Developed with 💖 by <a href="https://github.com/pbzin">pbzin</a></sub>
 </p>

@@ -47,17 +47,14 @@
 
 ---
 
-### 📈 GitHub Trophies & Activity
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/pbzin">
-    <img src="https://github-profile-trophy.vercel.app/?username=pbzin&theme=dracula&column=5&margin-w=15&margin-h=15&no-bg=true" alt="pbzin trophies">
+  <a href="https://github.com/pbzin?tab=followers">
+    <img src="https://img.shields.io/github/followers/pbzin?style=for-the-badge&color=ea4aaa&labelColor=1e1e1e&logo=github" alt="Followers">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pbzin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbzin&theme=dark&background=121212&stroke=ea4aaa&ring=ea4aaa&fire=ea4aaa&currStreakNum=ea4aaa&currStreakLabel=ea4aaa&sideNums=ea4aaa&sideLabels=ea4aaa&dates=ccc&hide_border=true" alt="pbzin streak stats">
+  <a href="https://github.com/pbzin/TabVisionYT/stargazers">
+    <img src="https://img.shields.io/github/stars/pbzin/TabVisionYT?style=for-the-badge&color=ea4aaa&labelColor=1e1e1e&logo=github&label=TabVision+Stars" alt="TabVision Stars">
   </a>
 </p>
 

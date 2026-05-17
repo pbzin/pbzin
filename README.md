@@ -50,10 +50,11 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-40%25-ea4aaa?style=for-the-badge&logo=javascript&labelColor=1e1e1e" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-30%25-ea4aaa?style=for-the-badge&logo=oracle&labelColor=1e1e1e" alt="Java">
-  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-20%25-ea4aaa?style=for-the-badge&logo=gnu-bash&labelColor=1e1e1e" alt="Bash">
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-10%25-ea4aaa?style=for-the-badge&logo=c%2B%2B&labelColor=1e1e1e" alt="C/C++">
+  <img src="https://img.shields.io/badge/JavaScript-35%25-ea4aaa?style=for-the-badge&logo=javascript&labelColor=1e1e1e" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-25%25-ea4aaa?style=for-the-badge&logo=oracle&labelColor=1e1e1e" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-20%25-ea4aaa?style=for-the-badge&logo=kotlin&labelColor=1e1e1e" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-15%25-ea4aaa?style=for-the-badge&logo=gnu-bash&labelColor=1e1e1e" alt="Bash">
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-5%25-ea4aaa?style=for-the-badge&logo=c%2B%2B&labelColor=1e1e1e" alt="C/C++">
 </p>
 
 ---

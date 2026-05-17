@@ -50,7 +50,10 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=pbzin&layout=compact&hide_border=true&bg_color=121212&title_color=ea4aaa&text_color=ccc&icon_color=ea4aaa" alt="pbzin Top Languages">
+  <img src="https://img.shields.io/badge/JavaScript-40%25-ea4aaa?style=for-the-badge&logo=javascript&labelColor=1e1e1e" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-30%25-ea4aaa?style=for-the-badge&logo=oracle&labelColor=1e1e1e" alt="Java">
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-20%25-ea4aaa?style=for-the-badge&logo=gnu-bash&labelColor=1e1e1e" alt="Bash">
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-10%25-ea4aaa?style=for-the-badge&logo=c%2B%2B&labelColor=1e1e1e" alt="C/C++">
 </p>
 
 ---

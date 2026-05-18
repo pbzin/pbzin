@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/pbzin">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="165">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35">
   </a>
   <a href="https://github.com/sponsors/pbzin">
-    <img src="https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors">
+    <img src="https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="35">
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=flat-square&logo=pix&logoColor=white" alt="Pix"> <b>Key (Copy):</b> <code>5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
+  <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=flat-square&logo=pix&logoColor=white" alt="Pix"> <code>5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
 </p>
 
 ---

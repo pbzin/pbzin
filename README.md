@@ -12,12 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=pbzin&color=ea4aaa&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 </p>
 
+### 💖 Support My Work
+
 <p align="center">
   <a href="https://buymeacoffee.com/pbzin">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://github.com/pbzin/Donate">
-    <img src="https://img.shields.io/badge/Pix_Key-5198a8b3--6b89--4475--aec1--5adcfcfd12cf-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Pix Key">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180">
   </a>
 </p>
 
@@ -48,7 +47,16 @@
 * 📺 **[TabVision YT](https://github.com/pbzin/TabVisionYT)** — Real-time smart resolution optimizer for active YouTube browser tabs.
 * 💖 **[Donate Hub](https://github.com/pbzin/Donate)** — Centralized, secure support options for my open-source work.
 
+---
 
+### 🇧🇷 Apoio via Pix
+Se você mora no Brasil e quer apoiar o meu trabalho diretamente, você pode usar a chave Pix aleatória abaixo:
+
+```text
+5198a8b3-6b89-4475-aec1-5adcfcfd12cf
+```
+
+*(Ao fazer a transferência pelo Pix, o nome do destinatário será exibido para a sua confirmação e segurança no aplicativo do banco.)*
 
 ---
 

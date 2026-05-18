@@ -23,6 +23,7 @@
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=flat-square&logo=pix&logoColor=white" alt="Pix" style="vertical-align: middle;"> <code style="vertical-align: middle;">5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
+  <br>
 </p>
 
 ---

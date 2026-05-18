@@ -13,8 +13,11 @@
 </p>
 
 <p align="center">
+  <a href="https://buymeacoffee.com/pbzin">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
   <a href="https://github.com/pbzin/Donate">
-    <img src="https://img.shields.io/badge/Support_My_Work-💖-ea4aaa?style=for-the-badge&logo=githubsponsors" alt="Support pbzin">
+    <img src="https://img.shields.io/badge/Pix_Key-5198a8b3--6b89--4475--aec1--5adcfcfd12cf-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Pix Key">
   </a>
 </p>
 

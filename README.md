@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/pbzin">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" style="vertical-align: middle;">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=pbzin&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="38" style="vertical-align: middle;">
   </a>
   <a href="https://github.com/sponsors/pbzin">
-    <img src="https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="35" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="38" style="vertical-align: middle;">
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=flat-square&logo=pix&logoColor=white" alt="Pix" style="vertical-align: middle;"> <code style="vertical-align: middle;">5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
+  <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Pix" height="30" style="vertical-align: middle;"> <code style="vertical-align: middle; font-size: 14px;">5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
   <br>
 </p>
 

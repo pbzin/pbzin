@@ -54,9 +54,8 @@
   <img src="https://img.shields.io/badge/Java-20%25-ea4aaa?style=for-the-badge&logo=oracle&labelColor=1e1e1e" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-15%25-ea4aaa?style=for-the-badge&logo=kotlin&labelColor=1e1e1e" alt="Kotlin">
   <img src="https://img.shields.io/badge/Python-15%25-ea4aaa?style=for-the-badge&logo=python&labelColor=1e1e1e" alt="Python">
-  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-10%25-ea4aaa?style=for-the-badge&logo=gnu-bash&labelColor=1e1e1e" alt="Bash">
-  <img src="https://img.shields.io/badge/C%2B%2B-10%25-ea4aaa?style=for-the-badge&logo=c%2B%2B&labelColor=1e1e1e" alt="C++">
-  <img src="https://img.shields.io/badge/C-5%25-ea4aaa?style=for-the-badge&logo=c&labelColor=1e1e1e" alt="C">
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-15%25-ea4aaa?style=for-the-badge&logo=gnu-bash&labelColor=1e1e1e" alt="Bash">
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-10%25-ea4aaa?style=for-the-badge&logo=c%2B%2B&labelColor=1e1e1e" alt="C/C++">
 </p>
 
 ---

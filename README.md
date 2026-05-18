@@ -19,10 +19,10 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="38" align="absmiddle">
   </a>
   <a href="https://github.com/sponsors/pbzin">
-    <img src="https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="38" align="absmiddle" style="border-radius: 8px;">
+    <img src="https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="38" align="absmiddle">
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Pix" height="30" align="absmiddle"> &nbsp; <code style="vertical-align: middle; display: inline-block; font-size: 14px;">5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
+  <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Pix" height="30" align="absmiddle"> &nbsp; <code>5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
   <br>
 </p>
 

@@ -56,7 +56,7 @@
 ### 📂 Featured Projects
 
 * 📺 **[TabVision YT](https://github.com/pbzin/TabVisionYT)** — Real-time smart resolution optimizer for active YouTube browser tabs.
-* 🦊 **[OrangeFox Sapphire](https://github.com/pbzin/orangefox_sapphire)** — Unofficial OrangeFox Recovery build for Xiaomi Redmi Note 13 4g (sapphire).
+* 🦊 **[OrangeFox Sapphire](https://github.com/pbzin/orangefox_sapphire)** — OrangeFox Recovery build for Xiaomi Redmi Note 13 4g (sapphire).
 * 💖 **[Donate Hub](https://github.com/pbzin/Donate)** — Centralized, secure support options for my open-source work.
 
 

@@ -54,6 +54,7 @@
 ---
 
 ### 📂 Featured Projects
+* 🌐 **[AllTrans](https://github.com/pbzin/AllTrans)** — Runtime translation for Android apps without modifying the APK
 * 🛒 **[XiaomiMarketBypass](https://github.com/pbzin/XiaomiMarketBypass)** — Makes the Xiaomi Market app work on custom ROMs
 * 📺 **[TabVision YT](https://github.com/pbzin/TabVisionYT)** — Real-time smart resolution optimizer for active YouTube browser tabs.
 * 🦊 **[OrangeFox Sapphire](https://github.com/pbzin/orangefox_sapphire)** — OrangeFox Recovery build for Xiaomi Redmi Note 13 4g (sapphire).

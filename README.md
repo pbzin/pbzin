@@ -23,6 +23,10 @@
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Pix" height="30" align="absmiddle"> &nbsp; <code>5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
+  <br><br>
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" height="30" align="absmiddle"> &nbsp; <code>1GkpDZDHYov7WZLs54Nv19f2KUoZPcACs2</code>
+  <br><br>
+  <img src="assets/bitcoin-qr.png" width="220" alt="Bitcoin donation QR code">
   <br>
 </p>
 

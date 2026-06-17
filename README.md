@@ -70,9 +70,10 @@
 ### 📂 Featured Projects
 * 🌐 **[AllTrans](https://github.com/pbzin/AllTrans)** — Runtime translation for Android apps without modifying the APK
 * 🛒 **[XiaomiMarketBypass](https://github.com/pbzin/XiaomiMarketBypass)** — Makes the Xiaomi Market app work on custom ROMs
-* 📺 **[TabVision YT](https://github.com/pbzin/TabVisionYT)** — Real-time smart resolution optimizer for active YouTube browser tabs.
 * 🦊 **[OrangeFox Sapphire](https://github.com/pbzin/orangefox_sapphire)** — OrangeFox Recovery build for Xiaomi Redmi Note 13 4g (sapphire).
-* 💖 **[Donate Hub](https://github.com/pbzin/Donate)** — Centralized, secure support options for my open-source work.
+* 📜 **[DaoLogcat](https://github.com/pbzin/DaoLogcat)** — Modern Android logcat reader for rooted devices with Material 3 interface and fast filtering
+* 🏮 **[BilibiliMod](https://github.com/pbzin/BilibiliMod)** — LSPosed module to bypass regional restrictions and unlock features in Bilibili
+* 📺 **[TabVision YT](https://github.com/pbzin/TabVisionYT)** — Real-time smart resolution optimizer for active YouTube browser tabs.
 
 
 

@@ -21,18 +21,37 @@
   <a href="https://github.com/sponsors/pbzin">
     <img src="https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="38" align="absmiddle">
   </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Pix" height="30" align="absmiddle"> &nbsp; <code>5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code>
-  <br><br>
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" height="30" align="absmiddle"> &nbsp; <code>1GkpDZDHYov7WZLs54Nv19f2KUoZPcACs2</code>
-  <br><br>
-  <img src="assets/bitcoin-qr.png" width="220" alt="Bitcoin donation QR code">
-  <br><br>
-  <img src="https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero" height="30" align="absmiddle"> &nbsp; <code>45YtYmxUeXeFdokKPG1KWtMFLByS8nwmtiJjEiZ9LfbkNaSUCvyWWAx3VmtDKKkxPJFdQLSXxodRWMt7EBu5TmA3Qi9dgwT</code>
-  <br><br>
-  <img src="assets/monero-qr.png" width="220" alt="Monero donation QR code">
-  <br>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Pix-⚡-32BCAD?style=for-the-badge&logo=pix&logoColor=white" alt="Pix" height="30" align="absmiddle">
+      <img src="assets/brasil-badge.png" alt="Brasil" height="30" align="absmiddle">
+    </td>
+    <td align="left"><code>5198a8b3-6b89-4475-aec1-5adcfcfd12cf</code></td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" height="30" align="absmiddle">
+    </td>
+    <td align="left"><code>1GkpDZDHYov7WZLs54Nv19f2KUoZPcACs2</code></td>
+  </tr>
+  <tr>
+    <td align="left"></td>
+    <td align="left"><img src="assets/bitcoin-qr.png" width="220" alt="Bitcoin donation QR code"></td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero" height="30" align="absmiddle">
+    </td>
+    <td align="left"><code>45YtYmxUeXeFdokKPG1KWtMFLByS8nwmtiJjEiZ9LfbkNaSUCvyWWAx3VmtDKKkxPJFdQLSXxodRWMt7EBu5TmA3Qi9dgwT</code></td>
+  </tr>
+  <tr>
+    <td align="left"></td>
+    <td align="left"><img src="assets/monero-qr.png" width="220" alt="Monero donation QR code"></td>
+  </tr>
+</table>
 
 ---
 

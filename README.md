@@ -74,7 +74,7 @@
 * 📜 **[DaoLogcat](https://github.com/pbzin/DaoLogcat)** — Modern Android logcat reader for rooted devices with Material 3 interface and fast filtering
 * 🏮 **[BilibiliMod](https://github.com/pbzin/BilibiliMod)** — LSPosed module to bypass regional restrictions and unlock features in Bilibili
 * 📺 **[TabVision YT](https://github.com/pbzin/TabVisionYT)** — Real-time smart resolution optimizer for active YouTube browser tabs.
-
+* 🖥️ **[LG 20MK400H Control](https://github.com/pbzin/20MK400H-LG-Control)** — Automatic profiles, scheduling, night filtering, and direct hardware control for the LG 20MK400H monitor.
 
 
 <p align="center">
